@@ -1,5 +1,5 @@
 #!/bin/bash
-#This will contain my new analytical method !
+#This will contain my new analytical method which does super awesome cool things for fish!
 #Changes3
 #Changes4
 
