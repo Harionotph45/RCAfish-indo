@@ -1,4 +1,4 @@
-#The First Line should be like this
+#The First Line should be like this, but also like this
 #!/bin/bash
 #This will contain my new analytical method which does super awesome cool things for fish! Fish are my favortie, specifically rockfish
 #Changes3
