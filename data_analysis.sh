@@ -1,3 +1,4 @@
+#The First Line should be like this
 #!/bin/bash
 #This will contain my new analytical method which does super awesome cool things for fish!
 #Changes3
